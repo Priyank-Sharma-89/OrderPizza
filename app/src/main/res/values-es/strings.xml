@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OrderPizza</string>
+    <string name="toppings">Coberturas</string>
+    <string name="whippedCream">Crema batida</string>
+    <string name="quantity">Cantidad</string>
+    <string name="orderButton">Orden</string>
+    <string name="thank_you">gracias</string>
+    <string name="order_summary_quantity">Cantidad :</string>
+    <string name="order_summary_addChocolate">Chocolate adicional :</string>
+    <string name="order_summary_addWhippedCream">Crema batida adicional :</string>
+    <string name="email_subject">Resumen de pedido para</string>
+    <string name="nameHintPlaceHolder">Introduzca su nombre</string>
+</resources>
